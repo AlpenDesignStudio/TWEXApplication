@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/Home"
+        android:icon="@drawable/ic_menu_gallery"
+        android:title="Home" />
+    <item
+        android:id="@+id/Login"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="Login" />
+    <item
+        android:id="@+id/Aboutus"
+        android:icon="@drawable/ic_menu_gallery"
+        android:title="About Us" />
+    <item
+        android:id="@+id/AML"
+        android:icon="@drawable/ic_menu_slideshow"
+        android:title="AML" />
+    <item
+        android:id="@+id/Investor"
+        android:icon="@drawable/ic_menu_share"
+        android:title="Investor" />
+    <item
+        android:id="@+id/TermsAndConditions"
+        android:title="Terms And Conditions" />
+
+</menu>
